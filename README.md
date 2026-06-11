@@ -18,12 +18,12 @@ cd clinical-data-engineering-learning
 ```
 ### What I learned
 
--Never commit PHI/PII or raw clinical datasets to Git
--Use clear commit messages in English
--Work on feature branches and merge via Pull Request
--Keep main stable and up to date with git pull
+- Never commit PHI/PII or raw clinical datasets to Git
+- Use clear commit messages in English
+- Work on feature branches and merge via Pull Request
+- Keep main stable and up to date with git pull
 
 ## Tools
 
--Git & GitHub
--SAS, R, Python (coming soon)
+- Git & GitHub
+- SAS, R, Python (coming soon)
