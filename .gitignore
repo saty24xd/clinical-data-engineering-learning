@@ -1,0 +1,12 @@
+# Datos clínicos sensibles — NUNCA en Git
+*.csv
+*.xpt
+*.sas7bdat
+data/raw/
+.env
+credentials.json
+
+# Archivos del sistema
+.DS_Store
+__pycache__/
+*.pyc
