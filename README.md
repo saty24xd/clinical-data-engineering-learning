@@ -16,14 +16,14 @@ git clone https://github.com/saty24xd/clinical-data-engineering-learning.git
 cd clinical-data-engineering-learning
 
 ```
-### What I learned
+## What I learned
 
 - Never commit PHI/PII or raw clinical datasets to Git
 - Use clear commit messages in English
 - Work on feature branches and merge via Pull Request
 - Keep main stable and up to date with git pull
 
-## Tools
+### Tools
 
 - Git & GitHub
 - SAS, R, Python (coming soon)
