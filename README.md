@@ -14,8 +14,15 @@ This repo documents my hands-on practice with version control for clinical data 
 ```bash
 git clone https://github.com/saty24xd/clinical-data-engineering-learning.git
 cd clinical-data-engineering-learning
-
 ```
+
+## Project structure
+
+| Folder | Week | Description |
+|--------|------|-------------|
+| `notes/` | 01 | Git practice notes |
+| `js-fundamentals/` | 02 | JavaScript basics for HL7 segment parsing |
+
 ## What I learned
 
 - Never commit PHI/PII or raw clinical datasets to Git
